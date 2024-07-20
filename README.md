@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Zakaria from Egypt<br><br>- 🔭 I’m a Computer Science student<br>- 📚 I'm currently learning App Development<br>- ⚡ In my free time I solve the problems</p>
+<p align="left">I'm Zakaria from Egypt<br><br>- 🔭 I’m a Computer Science student<br>- 📚 I'm currently learning Mobile App Development<br>- ⚡ In my free time I solve the problems</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
